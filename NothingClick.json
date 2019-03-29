@@ -1,0 +1,15 @@
+{
+	"id": "NOTHINGCLICK",
+	"name": "NothingClick",
+	"description": "Un autoclick léger et efficace",
+	"developer": "KyloRen3600",
+	"version": "0.0.1",
+	"build": "001",
+	"folder": "./Apps/NothingClick",
+	"exe": "NothingClick.exe",
+	"size": "30",
+	"extract": "NothingClick-master",
+	"version-url": "https://raw.githubusercontent.com/nothinggames/NothingClick/master/NothingClick.json",
+	"download-url": "https://github.com/nothinggames/NothingClick/archive/master.zip",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png"
+}
